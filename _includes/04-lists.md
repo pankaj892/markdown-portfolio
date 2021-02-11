@@ -1,3 +1,3 @@
-1.Get Github Pack
+- Get Github Pack
 
-2.Say hi to octocat
+- Say hi to octocat
